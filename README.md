@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Fun fact: No one can reach this page
+- 
+[![XiaYuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dut-xiayuan)](https://github.com/dut-xiayuan/github-readme-stats)
